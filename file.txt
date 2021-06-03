@@ -1,4 +1,1 @@
 hello world
-hello java
-hello cs
-hello git
